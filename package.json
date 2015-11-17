@@ -1,0 +1,16 @@
+{
+  "name": "movie",
+  "version": "1.0.0",
+  "description": "movie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^12.0.1",
+    "node-sass": "^3.4.2",
+    "watchify": "^3.6.1"
+  }
+}
